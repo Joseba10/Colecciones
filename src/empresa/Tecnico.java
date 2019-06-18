@@ -19,7 +19,4 @@ public  class Tecnico extends Empleado implements Arreglador {
 			
 	}
 
-	
-	
-
 }
